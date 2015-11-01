@@ -1,4 +1,4 @@
-FROM dn3t/gitlab-ci:base
+FROM dn3t/gitlab-ci:latest
 
 MAINTAINER Thomas F. Duellmann <t.duellmann@gmx.de>
 
