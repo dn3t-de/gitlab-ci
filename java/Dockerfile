@@ -2,8 +2,8 @@ FROM dn3t/gitlab-ci:latest
 
 MAINTAINER Thomas F. Duellmann <t.duellmann@gmx.de>
 
-RUN apt-get -y update &&\
-    apt-get -y install openjdk-8-jdk \
+RUN apt-get -y update && \
+    apt-get -y install openjdk-7-jdk \
                ant \
                gradle
                
