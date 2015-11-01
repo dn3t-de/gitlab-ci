@@ -1,5 +1,6 @@
 # GitLab CI Runner Containers
-Base image for further containers used for gitlab-ci runners.
+Images that can be used within Docker as gitlab-ci runners. Having some 
+tools preinstalled. 
 
 ## Tags
 `:latest` Debian 8 (jessie) with git.
